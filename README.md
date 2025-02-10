@@ -29,4 +29,4 @@ This is my pet project I made  to train and brush up on my knowledge about Nginx
     `nginx -s reload`  or  `systemctl restart nginx` - to restart Nginx
 
 
-* Type **localhost:8080** in the browser.
+* Type **localhost:8080** in Your browser.

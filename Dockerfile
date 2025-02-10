@@ -7,6 +7,7 @@ COPY *.html .
 COPY images ./images
 COPY css ./css
 COPY js ./js
+COPY public ./public
 COPY package.json .
 
 RUN npm install
